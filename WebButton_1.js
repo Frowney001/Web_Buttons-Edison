@@ -93,17 +93,3 @@ function processRequest(request, response) {
 http.createServer(processRequest).listen(8080);
 
 console.log("Server running at port 8080");
-
-Run the script with the following command:
-# node web_button.js
-
-The web is then accessible at http://youredisonaddress:8080/
-
-That's it! Have fun with your web controlled Edison!
-web_button.js3 KB
-« PreviousNext »View All Steps
-
-​
-
-We have a be nice comment policy.
-Please be positive and constructive.
